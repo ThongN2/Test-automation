@@ -1,0 +1,57 @@
+{
+    "test_cases": [
+        {
+            "name": "Menu on Table",
+            "image_file": "menu_table.jpg",
+            "expected_keywords": ["menu", "table", "restaurant", "dining"]
+        },
+                {
+            "name": "Empty Restaurant",
+            "image_file": "empty_restaurant.jpg",
+            "expected_keywords": ["empty", "restaurant", "tables", "chairs"]
+        },
+        {
+            "name": "Restaurant Table",
+            "image_file": "table_food.jpg",
+            "expected_keywords": ["table", "food", "restaurant", "meal"]
+        },
+        {
+            "name": "Sidewalk",
+            "image_file": "sidewalk.jpg",
+            "expected_keywords": ["sidewalk", "street", "walk", "path"]
+        },
+        {
+            "name": "Crosswalk with Light",
+            "image_file": "light_crosswalk.jpg",
+            "expected_keywords": ["crosswalk", "night", "pedestrian", "street"]
+        },
+        {
+            "name": "Students Writing",
+            "image_file": "students_writing.PNG",
+            "expected_keywords": ["students", "writing", "classroom", "learning"]
+        },
+       
+         
+        {
+            "name": "Shelf with Drinks",
+            "image_file": "shelf_drinks.jpg",
+            "expected_keywords": ["shelf", "drinks", "store", "bottles"]
+        },
+      
+        {
+            "name": "Full Students",
+            "image_file": "full_students.jpg",
+            "expected_keywords": ["students", "crowd", "school", "group"]
+        },
+        {
+            "name": "Empty Store Shelf",
+            "image_file": "empty_shelf.jpg",
+            "expected_keywords": ["empty", "shelf", "store", "shelves"]
+        },
+        {
+            "name": "Shopping Cart Products",
+            "image_file": "cart_products.jpg",
+            "expected_keywords": ["shopping cart", "groceries", "vegetables", "food"]
+        }
+    ]
+}

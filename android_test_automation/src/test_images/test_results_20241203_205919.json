@@ -1,0 +1,100 @@
+[
+    {
+        "test_case": "Menu on Table",
+        "image_file": "menu_table.jpg",
+        "description": "a menu on a table",
+        "found_keywords": [
+            "menu",
+            "table"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Empty Restaurant",
+        "image_file": "empty_restaurant.jpg",
+        "description": "a restaurant with tables and chairs",
+        "found_keywords": [
+            "restaurant",
+            "tables",
+            "chairs"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Restaurant Table",
+        "image_file": "table_food.jpg",
+        "description": "a group of people eating at a table",
+        "found_keywords": [
+            "table"
+        ],
+        "passed": false
+    },
+    {
+        "test_case": "Sidewalk",
+        "image_file": "sidewalk.jpg",
+        "description": "a road with trees and a fence",
+        "found_keywords": [],
+        "passed": false
+    },
+    {
+        "test_case": "Crosswalk with Light",
+        "image_file": "light_crosswalk.jpg",
+        "description": "a crosswalk at night",
+        "found_keywords": [
+            "crosswalk",
+            "night"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Students Writing",
+        "image_file": "students_writing.PNG",
+        "description": "a group of students writing in a classroom",
+        "found_keywords": [
+            "students",
+            "writing",
+            "classroom"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Shelf with Drinks",
+        "image_file": "shelf_drinks.jpg",
+        "description": "a shelf with different drinks on it",
+        "found_keywords": [
+            "shelf",
+            "drinks"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Full Students",
+        "image_file": "full_students.jpg",
+        "description": "a group of people sitting in a lecture hall",
+        "found_keywords": [
+            "group"
+        ],
+        "passed": false
+    },
+    {
+        "test_case": "Empty Store Shelf",
+        "image_file": "empty_shelf.jpg",
+        "description": "empty shelves in a store",
+        "found_keywords": [
+            "empty",
+            "store",
+            "shelves"
+        ],
+        "passed": true
+    },
+    {
+        "test_case": "Shopping Cart Products",
+        "image_file": "cart_products.jpg",
+        "description": "a shopping cart full of groceries",
+        "found_keywords": [
+            "shopping cart",
+            "groceries"
+        ],
+        "passed": true
+    }
+]
